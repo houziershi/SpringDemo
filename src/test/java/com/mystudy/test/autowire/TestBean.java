@@ -1,4 +1,4 @@
-package com.mystudy.test.bean;
+package com.mystudy.test.autowire;
 
 import com.imooc.test.base.UnitTestBase;
 import com.mystudy.bean.AccountService;
@@ -13,7 +13,7 @@ public class TestBean extends UnitTestBase {
 
 
     public TestBean() {
-        super("classpath*:spring-beanscope-my.xml");
+        super("classpath*:spring-beansautowired-my.xml");
     }
 
     @Test

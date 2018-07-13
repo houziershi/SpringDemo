@@ -14,4 +14,14 @@
     <bean id="accountService" factory-bean="serviceLocator"
           factory-method="createAccountServiceInstance"></bean>
 
+
+    <bean id="cat" class="com.mystudy.bean.Cat"></bean>
+
+    <bean id="dog" class="com.mystudy.bean.Dog"></bean>
+
+    <bean id="home" class="com.mystudy.bean.Home" >
+      <!--  <constructor-arg ref="cat"></constructor-arg>
+        <constructor-arg ref="dog"></constructor-arg>-->
+    </bean>
+
 </beans>
