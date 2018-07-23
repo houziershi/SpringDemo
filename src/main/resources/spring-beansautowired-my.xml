@@ -10,7 +10,8 @@
 
     <bean id="dog" class="com.mystudy.bean.Dog"></bean>
 
-    <bean id="home" class="com.mystudy.bean.Home">
-     </bean>
+    <bean id="home" class="com.mystudy.bean.Home"></bean>
+
+    <bean class="com.mystudy.bean.InstantiationTracingBeanPostProcessor"></bean>
 
 </beans>

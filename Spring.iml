@@ -49,7 +49,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-aop-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-aop-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -58,7 +58,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-aspects-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-aspects-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -67,7 +67,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-beans-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-beans-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -76,7 +76,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-context-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-context-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -85,7 +85,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-context-indexer-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-context-support-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -94,7 +94,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-context-support-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-core-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -103,7 +103,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-core-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-expression-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -112,7 +112,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-expression-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-instrument-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -121,7 +121,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-instrument-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-instrument-tomcat-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -130,7 +130,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-jcl-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-jdbc-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -139,7 +139,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-jdbc-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-jms-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -148,7 +148,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-jms-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-messaging-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -157,7 +157,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-messaging-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-orm-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -166,7 +166,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-orm-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-oxm-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -175,7 +175,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-oxm-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-test-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -184,7 +184,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-test-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-tx-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -193,7 +193,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-tx-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-web-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -202,7 +202,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-web-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-webmvc-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -211,7 +211,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-webflux-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-webmvc-portlet-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -220,16 +220,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-webmvc-5.0.7.RELEASE.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/springmvc/spring-framework-5.0.7.RELEASE-dist/spring-framework-5.0.7.RELEASE/libs/spring-websocket-5.0.7.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/spring/spring-websocket-4.0.5.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
